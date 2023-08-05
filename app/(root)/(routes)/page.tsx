@@ -17,9 +17,5 @@ export default function SetupPage() {
     }
   }, [isOpen, onOpen])
 
-  return (
-    <>
-      <p>Protected route</p>
-    </>
-  )
+  return null
 }
